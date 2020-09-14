@@ -1,0 +1,11 @@
+{
+  Protocollo:"ABC0001",
+  [
+    {
+      CodiceFE:"1".
+      CodiceStatoOfferta: "A",
+      DataInizio: "01/09/2020",
+      DataFine: ""
+    }
+  ]
+}
